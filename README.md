@@ -7,3 +7,4 @@ Total and regional sales KPIs
 Product and customer segmentation analysis
 Interactive filters for dynamic data exploration
 Visualizations include bar charts, line graphs, and pivot tables
+![Screenshot 2024-11-15 040342](https://github.com/user-attachments/assets/853a3c1b-d1b9-4416-b632-877142e192ea)
